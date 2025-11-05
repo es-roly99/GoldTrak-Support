@@ -44,9 +44,8 @@ Built with modern technology and a luxurious user experience, GoldTrak helps you
 ### 💰 **Advanced Gold Price Integration**
 
 - **Real-time Gold Prices**: Live market data from trusted sources
-- **Multi-karat Support**: Track 24K, 22K, 21K, 18K, 14K gold prices
+- **Multi-karat Support**: Track 24K, 18K, 14K, 10K gold prices
 - **Historical Charts**: Visualize price trends over 7 days, 1 month, 3 months, or 1 year
-- **Dynamic Pricing**: Automatically adjust prices based on current gold rates
 - **Price Conversion**: Calculate values across different karats instantly
 
 ### 📊 **Comprehensive Analytics & Statistics**
@@ -65,15 +64,12 @@ Built with modern technology and a luxurious user experience, GoldTrak helps you
 - **Fast Checkout**: Complete sales in seconds with our streamlined process
 - **Quantity Management**: Automatic inventory deduction
 - **Transaction History**: Full audit trail of all sales and purchases
-- **Multiple Payment Methods**: Flexible payment tracking
-- **Receipt Generation**: Professional transaction records
 
 ### 🎨 **Customizable Categories**
 
 - **Pre-configured Categories**: Ring, Necklace, Bracelet, Earring, Pendant, Chain, and more
 - **Custom Categories**: Create categories specific to your business
 - **Smart Auto-numbering**: Automatic item indexing (e.g., R-001, N-001)
-- **Custom Suffixes**: Define your own naming conventions per category
 - **Easy Management**: Add, edit, or remove categories anytime
 
 ### 🌍 **Multi-language Support**
@@ -90,7 +86,6 @@ GoldTrak speaks your language! Available in:
 ### 💎 **Beautiful User Experience**
 
 - **Modern Interface**: Clean, intuitive design that's a pleasure to use
-- **Dark Mode Ready**: Easy on the eyes, day or night
 - **Responsive Design**: Works perfectly on phones and tablets
 - **Touch-optimized**: Smooth, native mobile experience
 - **High-quality Images**: Showcase your jewelry with crystal-clear photos
@@ -148,19 +143,11 @@ Monitor real-time gold prices, track inventory values, and make informed buying 
 ### Quick Start Guide
 
 1. **Download GoldTrak** from your app store
-2. **Set up your business profile** (store name, currency, language)
+2. **Set up your business profile** (currency, language)
 3. **Configure categories** for your jewelry types
 4. **Add your first items** with photos and details
 5. **Start tracking sales** with quick actions
 6. **Monitor your business** with real-time analytics
-
-### Need Help?
-
-Check out our comprehensive guides:
-- [📚 User Manual](#) - Complete app documentation
-- [🎥 Video Tutorials](#) - Step-by-step walkthroughs
-- [💡 Tips & Tricks](#) - Get the most out of GoldTrak
-- [❓ FAQ](#faq) - Common questions answered
 
 ---
 
@@ -200,21 +187,9 @@ Core features like inventory management, sales tracking, and viewing statistics 
 </details>
 
 <details>
-<summary><b>Can I export my data?</b></summary>
-<br>
-Absolutely! You can export your entire inventory and transaction history as CSV/Excel files for backup or analysis in other software.
-</details>
-
-<details>
 <summary><b>How accurate are the gold prices?</b></summary>
 <br>
 GoldTrak uses reliable market data APIs to provide real-time gold prices. Prices are updated every few minutes during market hours.
-</details>
-
-<details>
-<summary><b>Can multiple people use the same account?</b></summary>
-<br>
-Multi-user access with role-based permissions is available as part of our Enterprise Features. Contact us for custom development options.
 </details>
 
 <details>
@@ -232,14 +207,13 @@ GoldTrak's core features are completely free to use! Enterprise features are ava
 <details>
 <summary><b>Can I customize categories?</b></summary>
 <br>
-Yes! Create, edit, and manage categories to match your specific business needs. Define custom numbering systems and naming conventions.
+Yes! Create, edit, and manage categories to match your specific business needs.
 </details>
 
 ---
 
 ## 📋 Privacy & Data
 
-### What We Collect
 GoldTrak is designed with privacy in mind:
 - ✅ All inventory data stored locally on your device
 - ✅ No personal information sent to third parties
@@ -287,19 +261,6 @@ Interested in custom features or enterprise solutions? Let's talk!
 
 ---
 
-## 🎯 Roadmap
-
-We're constantly improving GoldTrak! Here's what's coming:
-
-- 🔜 **Q1 2025**: Cloud backup & sync (optional)
-- 🔜 **Q2 2025**: Customer management system
-- 🔜 **Q3 2025**: Advanced reporting & analytics
-- 🔜 **Q4 2025**: POS system integration
-
-Have a feature request? [Let us know!](mailto:goldtrak.solutions@gmail.com)
-
----
-
 ## 📄 License & Terms
 
 GoldTrak is proprietary software. All rights reserved.
@@ -320,7 +281,7 @@ Made with 💎 by the GoldTrak Team
 
 ---
 
-© 2024 GoldTrak. All rights reserved.
+© 2025 GoldTrak. All rights reserved.
 
 [Support](mailto:goldtrak.solutions@gmail.com) • [Privacy](PRIVACY.md) • [Terms](TERMS.md)
 
