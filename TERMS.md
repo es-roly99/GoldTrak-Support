@@ -1,6 +1,6 @@
 # Terms of Service for GoldTrak
 
-**Last Updated**: November 2024
+**Last Updated**: November 2025
 
 ## 1. Agreement to Terms
 
@@ -227,4 +227,4 @@ BY USING GOLDTRAK, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO 
 
 ---
 
-© 2024 GoldTrak. All rights reserved.
+© 2025 GoldTrak. All rights reserved.

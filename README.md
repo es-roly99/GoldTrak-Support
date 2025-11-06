@@ -267,7 +267,6 @@ GoldTrak is proprietary software. All rights reserved.
 
 - [Terms of Service](TERMS.md)
 - [Privacy Policy](PRIVACY.md)
-- [End User License Agreement](EULA.md)
 
 ---
 

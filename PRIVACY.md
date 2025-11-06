@@ -1,7 +1,7 @@
 # Privacy Policy for GoldTrak
 
-**Effective Date**: November 5, 2024  
-**Last Updated**: November 5, 2024
+**Effective Date**: November 5, 2025  
+**Last Updated**: November 5, 2025
 
 ---
 
@@ -756,9 +756,8 @@ For GDPR or CCPA-related requests:
 ## Document Information
 
 **Policy Version**: 2.0  
-**Effective Date**: November 5, 2024  
-**Last Updated**: November 5, 2024  
-**Policy URL**: [https://github.com/goldtrak/goldtrak-support/blob/main/PRIVACY.md](https://github.com/goldtrak/goldtrak-support/blob/main/PRIVACY.md)
+**Effective Date**: November 6, 2025  
+**Last Updated**: November 6, 2025  
 
 **Governing Law**: [To be specified based on company jurisdiction]  
 **Jurisdiction**: International (with specific provisions for California and EEA)
@@ -767,9 +766,9 @@ For GDPR or CCPA-related requests:
 
 <div align="center">
 
-**© 2024 GoldTrak Solutions. All rights reserved.**
+**© 2025 GoldTrak Solutions. All rights reserved.**
 
-[goldtrak.solutions@gmail.com](mailto:goldtrak.solutions@gmail.com) • [Support](https://github.com/goldtrak/goldtrak-support) • [Terms of Service](TERMS.md)
+[goldtrak.solutions@gmail.com](mailto:goldtrak.solutions@gmail.com) • [Terms of Service](TERMS.md)
 
 *Your privacy is our priority. We're committed to transparency and protecting your business data.*
 
