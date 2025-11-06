@@ -12,7 +12,7 @@
 
 **Transform your jewelry business with intelligent inventory management**
 
-[📱 Download](#download) • [✨ Features](#features) • [🎯 Support](#support) • [📧 Contact](#contact)
+[📱 Download](#-download) • [✨ Features](#-features) • [💬 Support](#-support) • [📧 Contact](#-contact)
 
 </div>
 
@@ -23,6 +23,19 @@
 **GoldTrak** is a sophisticated, all-in-one inventory management solution designed specifically for jewelry businesses. Whether you own a boutique jewelry store, manage a large retail chain, or operate as an independent jeweler, GoldTrak provides the tools you need to track, manage, and grow your business with elegance and precision.
 
 Built with modern technology and a luxurious user experience, GoldTrak helps you focus on what matters most: creating beautiful pieces and delighting your customers.
+
+---
+
+## 📱 Download
+
+<div align="center">
+
+### Download Now!
+
+[![App Store](https://img.shields.io/badge/Download_on-App_Store-black?style=for-the-badge&logo=apple)](https://apps.apple.com/us/app/goldtrak/id6754781056)
+[![Google Play](https://img.shields.io/badge/Google_Play-Coming_Soon-green?style=for-the-badge&logo=google-play)](https://play.google.com/)
+
+</div>
 
 ---
 
@@ -122,19 +135,6 @@ Scale your operations with advanced features. Manage multiple locations, track e
 
 ### Gold Traders
 Monitor real-time gold prices, track inventory values, and make informed buying and selling decisions.
-
----
-
-## 📱 Download
-
-<div align="center">
-
-### Coming Soon to App Stores!
-
-[![App Store](https://img.shields.io/badge/App_Store-Coming_Soon-black?style=for-the-badge&logo=apple)](https://www.apple.com/app-store/)
-[![Google Play](https://img.shields.io/badge/Google_Play-Coming_Soon-green?style=for-the-badge&logo=google-play)](https://play.google.com/)
-
-</div>
 
 ---
 
